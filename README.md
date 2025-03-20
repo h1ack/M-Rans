@@ -7,6 +7,4 @@ M-Rans | Ransomware "For security purposes only" it's a privite tool
 
 ذ
 > [!CAUTION]  
-> Negative potential consequences of an action.
-**Warning**
-Warning : M-Rans it's not For Sell Or using , it designed to learn Advanced Malware !
+> M-Rans it's not For Sell Or using , it designed to learn Advanced Malware !
