@@ -15,4 +15,6 @@ M-Rans | Ransomware "For security purposes only" - it's a private tool
 ### 💡 Description :
 M-Rans is an advanced ransomware built with `C#`, `C++`, and `NodeJs` by [Meed](https://www.facebook.com/hack.meplz/).  
 It utilizes the powerful `AES` encryption algorithm to securely encrypt files with exceptional speed, thanks to its efficient multi-language integration.  
-The ransomware features a **modern and intuitive user interface**, providing a seamless and interactive experience.
+
+The encryption process is powered by **M-Engine**, a custom encryption engine designed and developed by **Meed** to deliver high-speed encryption while maintaining robust security.  
+The ransomware also features a **modern and intuitive user interface**, providing a seamless and interactive experience.
