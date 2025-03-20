@@ -3,7 +3,9 @@
   <img src="https://files.catbox.moe/2x1ppg.png" width="350px">
 </div>
 
-M-Rans | Ransomware "For security purposes only" - it's a private tool  
+<div align="center">
+  <h3>M-Rans | Ransomware "For security purposes only" - it's a private tool  </h3>
+</div>
 
 > [!CAUTION]  
 > M-Rans is not for sale or use. It is designed solely for learning advanced malware techniques!
