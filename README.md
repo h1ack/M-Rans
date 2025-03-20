@@ -2,7 +2,7 @@
 M-Rans | Ransomware "For security purposes only" it's a privite tool
 
 <div>
-  <img src="https://files.catbox.moe/2x1ppg.png">
+  <img src="https://files.catbox.moe/2x1ppg.png" width="32px">
 </div>
 
 <div>
