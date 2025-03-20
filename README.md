@@ -49,3 +49,5 @@ The developer does not assume responsibility for any misuse of this tool.
 
 ### 📧 **Contact:**
 For more information or educational inquiries, reach out to **[Meed](https://www.facebook.com/hack.meplz/)**.  
+email : meed@h1ack.me
+
