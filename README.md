@@ -37,7 +37,7 @@ Encryption is powered by **M-Engine**, a custom-built encryption engine designed
 ---
 
 ### 🛠️ **Technologies Used:**
-- **Programming Languages:** C#, C++, NodeJs  
+- **Programming Languages:** C#, NodeJs  
 - **Frameworks:** Electron.js, .NET  
 - **Encryption Algorithm:** AES (Advanced Encryption Standard)  
 - **Custom Engine:** M-Engine (High-Speed Encryption)  
@@ -57,4 +57,3 @@ email : meed@h1ack.me
 
 =======
 M-Rans
->>>>>>> 8b49390 (First commit)
