@@ -11,7 +11,6 @@ namespace M_Engine
         public static string ad { get; private set; }
         public static string ap { get; private set; }
         public const string a = "Pay.exe";
-        public const string s = "pay.wav";
         private const string rsk = @"SOFTWARE\Microsoft\Windows\CurrentVersion\Run";
 
         static Handle()
