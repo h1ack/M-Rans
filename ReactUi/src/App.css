@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+body {
+  background-image: url("./photos/Background.jpg");
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  overflow: hidden;
+  margin: 0;
+  min-height: 100vh;
+  font-family: main;
+}
+
+@font-face {
+  font-family: "main";
+  src: url('./font/mona-black.ttf') format('opentype');
+  font-weight: bold;
+}

@@ -1,0 +1,47 @@
+{
+  "name": "m-rans",
+  "version": "2.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "electron": "^33.2.1",
+    "electron-builder": "^25.1.8"
+  },
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "build": {
+    "appId": "com.m-rans.app",
+    "productName": "Pay",
+    "icon": "icon.ico",
+    "asar": true,
+    "asarUnpack": [
+      "resources/M-Engine.exe"
+    ],
+    "files": [
+      "index.html",
+      "index.js",
+      "assets/**/*",
+      "resources/**/*"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "icon.ico"
+    },
+    "mac": {
+      "icon": "icon.icns"
+    },
+    "linux": {
+      "icon": "icon.png"
+    }
+  },
+  "dependencies": {
+    "asar": "^3.2.0",
+    "howler": "^2.2.4",
+    "play-sound": "^1.1.6",
+    "sound-play": "^1.1.0"
+  }
+}
