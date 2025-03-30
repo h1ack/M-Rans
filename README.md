@@ -26,7 +26,7 @@ Users must comply with local and international laws when using this software, an
 ---
 
 ### 💡 Description:
-M-Rans is an advanced ransomware tool built with `C#`, `C++`, and `NodeJs` by [Meed](https://www.facebook.com/hack.meplz/).  
+M-Rans is an advanced ransomware tool built with `C#` and `NodeJs` by [Meed](https://www.facebook.com/hack.meplz/).  
 It leverages the **Electron.js** framework for the user interface and **.NET** for core functionalities, while using optimized **C++ functions** to maximize performance.  
 
 The ransomware utilizes the robust `AES` encryption algorithm to securely encrypt files at exceptional speed.  
