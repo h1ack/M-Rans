@@ -1,9 +1,5 @@
 # M-Rans
 
-[![Contributors](https://img.shields.io/github/contributors/h1ack/M-Rans?style=for-the-badge)](https://github.com/h1ack/M-Rans/graphs/contributors)
-
-[![Contributors](https://contrib.rocks/image?repo=h1ack/M-Rans)](https://github.com/h1ack/M-Rans/graphs/contributors)
-
 ### M-Rans
 ⚠️ Disclaimer :
 
