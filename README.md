@@ -1,5 +1,4 @@
 # M-Rans
-<<<<<<< HEAD
 <div align="center">
   <img src="https://files.catbox.moe/2x1ppg.png" width="350px">
 </div>
@@ -38,7 +37,7 @@ Encryption is powered by **M-Engine**, a custom-built encryption engine designed
 ---
 
 ### 🛠️ **Technologies Used:**
-- **Programming Languages:** C#, C++, NodeJs  
+- **Programming Languages:** C#, NodeJs  
 - **Frameworks:** Electron.js, .NET  
 - **Encryption Algorithm:** AES (Advanced Encryption Standard)  
 - **Custom Engine:** M-Engine (High-Speed Encryption)  
@@ -56,6 +55,4 @@ The developer does not assume responsibility for any misuse of this tool.
 For more information or educational inquiries, reach out to **[Meed](https://www.facebook.com/hack.meplz/)**.  
 email : meed@h1ack.me
 
-=======
-M-Rans
->>>>>>> 8b49390 (First commit)
+M-Rans.
