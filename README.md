@@ -1,6 +1,11 @@
 # M-Rans
+### M-Rans
+**Warning** : i, am not responsible for any illegal or inappropriate use of this application/program/tool. This software is provided for educational and experimental purposes only, and any use that violates laws or infringes on the rights of others is solely the responsibility of the user. I bear no legal or ethical responsibility for any damage or losses resulting from misuse.
+
+Users must comply with local and international laws when using this software, and any violation of these laws is at their own risk.
+
 <div align="center">
-  <img src="https://files.catbox.moe/2x1ppg.png" width="350px">
+  <img src="https://files.catbox.moe/2x1ppg.png" width="300px">
 </div>
 
 <div align="center">
