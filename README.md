@@ -13,7 +13,7 @@ Users must comply with local and international laws when using this software, an
 </div>
 
 <div align="center">
-  <h3>M-Rans | Ransomware "For security purposes only" - it's a private tool  </h3>
+  <h3>M-Rans | Ransomware "For security purposes only"</h3>
 </div>
 
 > [!CAUTION]  
