@@ -1,12 +1,12 @@
 # M-Rans
 ### M-Rans
-**Warning** : i, am not responsible for any illegal or inappropriate use of this application/program/tool. This software is provided for educational and experimental purposes only, and any use that violates laws or infringes on the rights of others is solely the responsibility of the user. I bear no legal or ethical responsibility for any damage or losses resulting from misuse.
+**Warning ⚠️** : i, am not responsible for any illegal or inappropriate use of this application/program/tool. This software is provided for educational and experimental purposes only, and any use that violates laws or infringes on the rights of others is solely the responsibility of the user. I bear no legal or ethical responsibility for any damage or losses resulting from misuse.
 
 Users must comply with local and international laws when using this software, and any violation of these laws is at their own risk.
 
 <br/>
 
-**إخلاء مسؤولية** : أنا غير مسؤول عن أي استخدام غير قانوني أو غير لائق لهذا التطبيق/البرنامج/الأداة. يتم توفير هذا البرنامج لأغراض تعليمية وتجريبية فقط، وأي استخدام يخالف القوانين أو ينتهك حقوق الآخرين يقع على عاتق المستخدم وحده. لا أتحمل أي مسؤولية قانونية أو أخلاقية عن أي ضرر أو خسائر تنجم عن إساءة الاستخدام.
+**إخلاء مسؤولية ⚠️** : أنا غير مسؤول عن أي استخدام غير قانوني أو غير لائق لهذا التطبيق/البرنامج/الأداة. يتم توفير هذا البرنامج لأغراض تعليمية وتجريبية فقط، وأي استخدام يخالف القوانين أو ينتهك حقوق الآخرين يقع على عاتق المستخدم وحده. لا أتحمل أي مسؤولية قانونية أو أخلاقية عن أي ضرر أو خسائر تنجم عن إساءة الاستخدام.
 
 يجب على المستخدمين الالتزام بالقوانين المحلية والدولية عند استخدام هذا البرنامج، وأي انتهاك لتلك القوانين يكون على مسؤوليتهم الخاصة.
 
