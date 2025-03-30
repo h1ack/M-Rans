@@ -1,5 +1,4 @@
-# SOURCE FILE ./src OF REACT WAS DELETED, main.jsx WAS DELETED
-
+### source file ./src of react was deleted, main.jsx was deleted
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
