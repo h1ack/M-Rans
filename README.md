@@ -5,7 +5,7 @@
 [![Contributors](https://contrib.rocks/image?repo=h1ack/M-Rans)](https://github.com/h1ack/M-Rans/graphs/contributors)
 
 ### M-Rans
-⚠️ Disclaimer
+⚠️ Disclaimer :
 
 I am not responsible for any illegal or inappropriate use of this application/program/tool. This software is provided for educational and research purposes only. Any use that violates laws or infringes on the rights of others is solely the responsibility of the user. I bear no legal or ethical responsibility for any damage or losses resulting from misuse.
 
