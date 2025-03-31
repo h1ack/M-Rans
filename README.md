@@ -49,7 +49,7 @@ Encryption is powered by **M-Engine**, a custom-built encryption engine designed
 - 🔒 **High-Speed AES Encryption:** Ensures data security with minimal processing time.  
 - ⚡ **Powered by M-Engine:** A highly efficient encryption core developed from scratch.  
 - 🖥️ **Cross-Platform Support:** Leverages **Electron.js** for a modern and responsive UI.  
-- 🧩 **Low-Level Optimization:** Uses **C++ functions** for critical tasks to boost performance.  
+- 🧩 **Optimization:** Uses **C# functions** for critical tasks to boost performance.  
 - 🪟 **Interactive User Interface:** Clean and intuitive design for enhanced usability.  
 
 ---
