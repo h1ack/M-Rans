@@ -69,7 +69,7 @@ The developer does not assume responsibility for any misuse of this tool.
 
 ---
 
-### 🛠️ **Build :**
+### 🛠️ **Build : (Windows only)**
 
 Clone Repo :
 ```
