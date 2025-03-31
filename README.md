@@ -106,8 +106,8 @@ final build:
 npm run build # Build client - electron.js
 ```
 
+---
 
-<br/>
 ### 📧 **Contact:**
 For more information or educational inquiries, reach out to **[Meed](https://www.facebook.com/hack.meplz/)**.  
 email : meed@h1ack.me
