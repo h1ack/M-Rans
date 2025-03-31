@@ -73,20 +73,27 @@ The developer does not assume responsibility for any misuse of this tool.
 
 ```
 git clone https://h1ack.me/h1ack/M-Rans.git
-
+```
+```
 cd M-Rans/M-Engine
-
+```
+```
 (Get-Content config.cs) -replace '\$2a\$12\$xp7Fk0XBRwnxC1x4ibYFWe6sr..PFYkfLd0l/E060l27W4ggUrNVS', 'NEW_BCRYPT_HASH' | Set-Content config.cs
-
+```
+```
 (Get-Content config.cs) -replace 'PASS-KEY-HERE', 'YOUR_NEW_PASS_TOKEN' | Set-Content config.cs
-
+```
+```
 dotnet build # Build M-Engine
-
+```
+```
 # if error here make sure the paths is "./bin/Debug/netX.X/M-Engine.exe"
-Copy-Item -Path "./bin/Debug/netX.X/M-Engine.exe" -Destination "../resources" 
-
+Copy-Item -Path "./bin/Debug/netX.X/M-Engine.exe" -Destination "../resources"
+```
+```
 (Get-Content ./assetes/index-Ba9fV0lF.js) -replace 'https://h1ack.me', 'YOUR_NEW_REDIRECT_URL' | Set-Content ./assetes/index-Ba9fV0lF.js
-
+```
+```
 npm run build # Build client - electron.js
 ```
 
