@@ -73,7 +73,7 @@ The developer does not assume responsibility for any misuse of this tool.
 
 Clone Repo :
 ```
-git clone https://h1ack.me/h1ack/M-Rans.git
+git clone https://github.com/h1ack/M-Rans.git
 ```
 M-Rans:
 ```
